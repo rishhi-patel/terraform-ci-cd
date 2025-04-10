@@ -64,7 +64,7 @@ terraform-ci-cd/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/terraform-ci-cd.git
+git clone https://github.com/rishhi-patel/terraform-ci-cd.git
 cd terraform-ci-cd
 ```
 
